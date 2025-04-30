@@ -1,0 +1,12 @@
+name: RayFlag
+version: '${version}'
+main: dev.contadino.rayflag.RayFlag
+api-version: '1.20'
+permissions:
+  rayflag.flag:
+    default: op
+  rayflag.checkflag:
+    default: op
+commands:
+  raycheck:
+    description: 'Check the flags'
