@@ -1,6 +1,6 @@
 # RayFlag - Xray Staffer Flag
 ## Commands
-- /raycheck [nickname player ] - Controlla tutte le flag history giornaliere di tutti i giocatori che hanno mandato delle flag
+- /raycheck [nickname player] - Controlla tutte le flag history giornaliere di tutti i giocatori che hanno mandato delle flag
 
 ## Permissions
 - rayflag.flag - Permesso per poter visionare le flag in "diretta" quando un giocatore rompe un minerale
